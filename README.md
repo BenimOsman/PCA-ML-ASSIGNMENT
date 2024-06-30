@@ -12,5 +12,6 @@ To understand and implement PCA and compare its performance in terms of Variance
 5. Evaluate the performance of PCA by calculating the explained variance ratio for each principal component and selecting the appropriate number of principal components for the dataset.
 6. Use the selected number of principal components to reconstruct the original dataset and calculate the reconstruction error.
 7. Compare the results of PCA with and without dimensionality reduction using a classification algorithm of your choice, such as logistic regression, k-nearest neighbors, or support vector machines.
+
 **Note:** You are encouraged to use additional libraries or tools if you think they could be helpful for your analysis.
 
