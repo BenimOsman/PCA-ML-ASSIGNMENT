@@ -1,5 +1,4 @@
-**Dataset:**
-Dataset Used: Breast Cancer dataset from scikit-learn
+**Dataset:** Breast Cancer dataset from scikit-learn
 
 **Implementation:**
 1. Data Loading and Preprocessing:
